@@ -1,0 +1,30 @@
+{
+  "urls": {
+    "pelotonUrls": {
+      "homePage":"http://www.pelotoncycle.com"
+    }
+  },
+
+  "emails":{
+    "validLogIn":{
+      "validEmailOne":"pelotonqa@gmail.com",
+      "validEmailTwo":"john.doepeloton@gmail.com",
+      "validUserNameOne":"qachallenge",
+      "validUserNameTwo":"johndoepeloton"
+    },
+    "invalidLogIn":{
+      "invalidEmailOne":"pelotonqa@example.com",
+      "invalidUserName":"pelotonsdet"
+    }
+  },
+
+  "passwords":{
+    "validPasswords":{
+      "validPasswordOne":"ILoveToRide",
+      "validPasswordTwo":"Testing1@"
+    },
+    "invalidPassword":{
+      "inValidPasswordOne":"invalid341"
+    }
+  }
+}
